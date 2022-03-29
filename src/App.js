@@ -13,8 +13,8 @@ function App() {
       <Navbar />
       <AnimatePresence initial={false} exitBeforeEnter>
         <Routes location={location} key={location.key}>
-          <Route path='/' element={<Home />} />
-          <Route path='/page' element={<Place />} />
+          <Route path='/pg-transition/' element={<Home />} />
+          <Route path='/pg-transition/page' element={<Place />} />
         </Routes>
       </AnimatePresence>
     </>
