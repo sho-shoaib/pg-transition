@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pg-transition/static/css/main.13e7291a.css",
+    "main.js": "/pg-transition/static/js/main.955245a9.js",
+    "static/media/model.jpg": "/pg-transition/static/media/model.e62519d616b5a03121cd.jpg",
+    "index.html": "/pg-transition/index.html",
+    "main.13e7291a.css.map": "/pg-transition/static/css/main.13e7291a.css.map",
+    "main.955245a9.js.map": "/pg-transition/static/js/main.955245a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13e7291a.css",
+    "static/js/main.955245a9.js"
+  ]
+}
